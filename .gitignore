@@ -1,0 +1,7 @@
+#Add these to .gitignore
+HotkeysSaveData.json
+PlayerArmourSystemSaveData.json
+PlayerClothingSystemSaveData.json
+PlayerInventorySaveData.json
+PlayerRetrieveDroppedInventoryActionSaveData.json
+PlayerStateSaveData.json
